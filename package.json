@@ -1,0 +1,18 @@
+{
+  "name": "chatbotassignment",
+  "version": "1.0.0",
+  "description": "Chatbot assignment to book lab test and book a doctor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Singh Tomar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemailer": "^4.4.1",
+    "watson-developer-cloud": "^3.0.3",
+    "xml2js": "^0.4.19"
+  }
+}

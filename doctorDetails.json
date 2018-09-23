@@ -1,0 +1,79 @@
+{
+    "symptoms": [
+        {
+            "name": "fever",
+            "doctors": [
+                {
+                    "name": "Dr. Ajay Chauhan",
+                    "lat": "26.8382258",
+                    "long": "77.02961679999999"
+                },
+                {
+                    "name": "Dr. Dipesh Khrakia",
+                    "lat": "28.4748242",
+                    "long": "77.0533881"
+                }
+            ]
+        },
+        {
+            "name": "Headache",
+            "doctors": [
+                {
+                    "name": "Dr. Achal Aggarwal",
+                    "lat": "28.4697441",
+                    "long": "77.06617419999998"
+                },
+                {
+                    "name": "Dr. Akshay Gupta",
+                    "lat": "28.4634412",
+                    "long": "77.07675569999992"
+                }
+            ]
+        },
+        {
+            "name": "itching",
+            "doctors": [
+                {
+                    "name": "Dr. Deepak Kumar",
+                    "lat": "28.4428273",
+                    "long": "77.03716550000001"
+                },
+                {
+                    "name": "Dr. Ashwani Bhola",
+                    "lat": "28.4235954",
+                    "long": "77.03948390000005"
+                }
+            ]
+        },
+        {
+            "name": "loose motion",
+            "doctors": [
+                {
+                    "name": "Dr. Swati Aggarwal",
+                    "lat": "30.89863119999999",
+                    "long": "75.84216960000003"
+                },
+                {
+                    "name": "Dr. Pallavi Garg",
+                    "lat": "30.9019147",
+                    "long": "75.80777490000003"
+                }
+            ]
+        },
+        {
+            "name": "cold",
+            "doctors": [
+                {
+                    "name": "Dr. Shivani Chikara",
+                    "lat": "28.7278704",
+                    "long": "77.15279029999999"
+                },
+                {
+                    "name": "Dr. Amit Kishore",
+                    "lat": "28.4812387",
+                    "long": "77.0112778"
+                }
+            ]
+        }      
+    ]
+}

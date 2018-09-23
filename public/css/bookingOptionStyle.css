@@ -1,0 +1,100 @@
+body,
+html {
+    font-family: Lato, sans-serif;
+    color: #283D56;
+    background: #e8edec;;
+}
+
+.homePage {
+    background-image: url("/images/Home.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.homePage .option {
+    margin: 10px;
+}
+
+header {
+    height: 100px;
+    display: table;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+h1 {
+    text-align: left;
+    display: table-cell;
+    vertical-align: middle;
+    margin: auto;
+}
+
+.chatbotOptions {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #5586D6;
+}
+
+.option {
+    box-shadow: 1px 1px 5px 5px grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 600px;
+    height: 200px;
+    border-radius: 14px;
+    margin: 0px;
+    background: white;
+    padding: 0px;
+}
+
+.image {
+    width: 600px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+
+.bookingButton {
+    width: 35%;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none !important;
+    margin-top: -78px;
+    margin-left: 350px;
+    font-weight: bold;
+    height: 40px;
+    cursor: pointer;
+    background-color: rgb(33, 171, 243);
+}
+
+
+.imageDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding: 20px;
+    align-self: center;
+}
+
+.img
+{
+    height: 3.5%;
+    width: 3.5%;
+    float: left;
+    padding-left: 10%;
+    padding-right: 2%;
+}
+
+.head 
+{
+    padding-top: 3%;
+}

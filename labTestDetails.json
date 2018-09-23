@@ -1,0 +1,39 @@
+{
+    "avilableTests": [
+        {
+            "name": "Blood Test",
+            "description": "Doctor or nurse cleans the area of skin with an antiseptic wipe. A needle attached to a syringe or special container is inserted into the vein. The syringe is used to draw out a sample of your blood.",
+            "price": "500"
+        },
+        {
+            "name": "Diabetes Test",
+            "description": "You fast overnight and the fasting blood sugar level is measured. Then you drink a sugary liquid, and blood sugar levels are tested periodically for the next two hours.",
+            "price": "1500"
+        },
+        {
+            "name": "ECG Test",
+            "description": "These electrodes are attached to electrical leads (wires), which are then attached to the EKG machine. During the test, you'll need to lie still on a table while the machine records your heart's electrical activity and places the information on a graph.",
+            "price": "1800"
+        },
+        {
+            "name": "Eyes Test",
+            "description": "A standard eye chart. Cover test to check eye alignment. Manual refraction with a phoropter. Slit lamp exam of the front of the eye. Applanation tonometry (glaucoma test).",
+            "price": "1500"
+        },
+        {
+            "name": "Full body test",
+            "description": "Please come without eating anything.",
+            "price": "2500"
+        },
+        {
+            "name": "Haemoglobin Test",
+            "description": "A hemoglobin electrophoresis test measures the different types of hemoglobin in the bloodstream. Hemoglobin, the oxygen-carrying protein inside red blood cells, comes in many molecular forms, some normal and some abnormal.",
+            "price": "5000"
+        },
+        {
+            "name": "Platlet Count Test",
+            "description": "To diagnose this condition, your doctor needs to do a complete blood count (CBC) test. This blood test looks at the amount of blood cells in your blood. It will tell your doctor if your platelet count is lower than it should be. Your doctor may also wish to have your blood tested for platelet antibodies.",
+            "price": "1700"
+        }
+    ]
+}
